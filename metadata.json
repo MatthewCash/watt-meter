@@ -1,0 +1,7 @@
+{
+    "uuid": "watt-meter@matthew-cash.com",
+    "name": "Watt Meter",
+    "description": "Watt Meter",
+    "version": 1,
+    "shell-version": ["40"]
+}
